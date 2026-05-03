@@ -1,28 +1,29 @@
 # MiniLogin Kuro - Naruto Online
 
-Custom MiniLogin client for Naruto Online with multiple improvements over the official version.
+Cliente MiniLogin personalizado para Naruto Online con múltiples mejoras respecto a la versión oficial.
 
-## Features
+## Características
 
-- Improved performance and stability
-- Multi-account support
-- Optimized Chromium/CEF configuration
-- Reduced resource usage
-- Enhanced settings and flexibility
+* Rendimiento y estabilidad mejorados
+* Soporte para múltiples cuentas
+* Configuración optimizada de Chromium/CEF
+* Reducción del uso de recursos
+* Ajustes mejorados y mayor flexibilidad
+* Mejor uso y aprovechamiento del caché local
 
-## Installation
+## Instalación
 
-Download the latest installer from the Releases section:
+Descarga el instalador más reciente desde la sección de Releases:
 
-👉 https://github.com/KuroRyujin/MiniLogin-Kuro/releases
+👉 [https://github.com/KuroRyujin/MiniLogin-Kuro/releases](https://github.com/KuroRyujin/MiniLogin-Kuro/releases)
 
-Run the installer and follow the steps.
+Ejecuta el instalador y sigue los pasos.
 
-## Notes
+## Notas
 
-- This is a modified client for optimization purposes.
-- Some antivirus programs may show false positives due to the nature of custom launchers.
+* Este es un cliente modificado con fines de optimización.
+* Algunos antivirus pueden mostrar falsos positivos debido a la naturaleza de los launchers personalizados.
 
-## Author
+## Autor
 
-Kuro
+KuroRyujin
