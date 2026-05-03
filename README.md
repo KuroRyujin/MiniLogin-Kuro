@@ -1,4 +1,4 @@
-# MiniLogin Kuro - Naruto Online
+# MiniLogin Definitivo Kuro - Naruto Online
 
 Cliente MiniLogin personalizado para Naruto Online con múltiples mejoras respecto a la versión oficial.
 
