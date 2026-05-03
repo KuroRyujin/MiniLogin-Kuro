@@ -18,6 +18,7 @@ Descarga el instalador más reciente desde la sección de Releases:
 👉 [https://github.com/KuroRyujin/MiniLogin-Kuro/releases](https://github.com/KuroRyujin/MiniLogin-Kuro/releases)
 
 Para donar y contribuir con la causa :D (Soy el unico webon que le pone ganas a esto ayuda xfa xD)
+
 👉https://www.paypal.com/donate/?hosted_button_id=7WTLWK8ANHK64
 
 Ejecuta el instalador y sigue los pasos.
