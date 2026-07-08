@@ -22,7 +22,8 @@ Para donar y contribuir con la causa :D (Soy el unico webon que le pone ganas a 
 👉https://www.paypal.com/donate/?hosted_button_id=7WTLWK8ANHK64
 
 Para seguir todas las actualizaciones que voy haciendo:
-https://www.patreon.com/c/u5189980/posts
+
+👉https://www.patreon.com/c/u5189980/posts
 
 Ejecuta el instalador y sigue los pasos.
 
